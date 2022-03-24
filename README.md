@@ -1,4 +1,4 @@
-<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/lucasdonay/7329d013c542214a6a4eb148dbf08464/raw/55ec5796137d29980d23b3648b565a891ef52917/githubcardfinal2.svg">
+<img align="right" height="530em" src="https://raw.githubusercontent.com/gist/lucasdonay/7329d013c542214a6a4eb148dbf08464/raw/55ec5796137d29980d23b3648b565a891ef52917/githubcardfinal2.svg">
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Donay!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdonay&color=blueviolet" alt="Profile views" /> </p>
 
@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I ❤️️ ☕**
 
-<br>
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
