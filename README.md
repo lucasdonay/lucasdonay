@@ -34,7 +34,7 @@
 <h1 align="center"> 📡 &nbsp;Social Links</h1>
 <p align="center" style="background:blue">  
 <a href="https://www.linkedin.com/in/lucasdonay/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-donay-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-lucasdonay-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a> 
   ⠀
   <a href="https://www.behance.net/donaydev" target="_blank">
