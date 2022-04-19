@@ -4,7 +4,7 @@
 
 - 👨‍🎓   I’m currently studying Explorer at [Rocketseat](https://www.rocketseat.com.br/explorer?utm_source=rocketseat&utm_medium=banner&utm_campaign=offer-smtc&utm_term=organic&utm_content=offer-smtc/)
 
-- 🚀  I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
+- 🚀  I’m currently learning **JavaScript, TypeScript, Angular, NodeJS**
 
 - 👨‍💻 How to reach me  [donay.dev](https://donay.dev)
 
