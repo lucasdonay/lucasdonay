@@ -4,9 +4,9 @@
 
 - 👨‍🎓   I’m currently studying Explorer at [Rocketseat](https://www.rocketseat.com.br/explorer?utm_source=rocketseat&utm_medium=banner&utm_campaign=offer-smtc&utm_term=organic&utm_content=offer-smtc/)
 
-- 🚀  I’m currently learning **JavaScript, TypeScript, Angular, NodeJS**
+- 🚀  I’m currently learning **TypeScript, Angular, NodeJS, Flutter**
 
-- ⌛  In the future intends to make me a mobile developer using **Flutter**
+- ⌛  In the future, i want to become a developer mobile using **Flutter**
 
 - 👨‍💻  How to reach me  [donay.dev](https://donay.dev)
 
