@@ -1,4 +1,5 @@
 <img align="right" height="530em" src="https://raw.githubusercontent.com/gist/lucasdonay/7329d013c542214a6a4eb148dbf08464/raw/55ec5796137d29980d23b3648b565a891ef52917/githubcardfinal2.svg">
+<br>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="44px" height="44px">, i'm Donay!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdonay&color=blueviolet" alt="Profile views" /> </p>
 
@@ -25,28 +26,16 @@
 
 <br>
 
-<h1 align="center"> ⚙️ &nbsp;GitHub Analytics</h1>
-<br>
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasdonay&show_icons=true&theme=nightowl" alt="biro's stats"/>
-</p>
-
-
-<h1 align="center"> 📡 &nbsp;Social Links</h1>
-<p align="center" style="background:blue">  
+<h1 align="left"> 📡 &nbsp;Social Links</h1>
+<p align="left" style="background:blue">  
 <a href="https://www.linkedin.com/in/lucasdonay/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucasdonay-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a> 
-  ⠀
-  <a href="https://www.behance.net/donaydev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-donaydev-05122A?style=flat&logo=BEHANCE" alt="behance"/>
-</a> ⠀
+</a>  ⠀
     <a href="https://instagram.com/donays" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-donays-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>  
   ⠀
-  <a href="https://www.behance.net/donaydev" target="_blank">
+  <a href="https://twitter.com/donaydev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-donaydev-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
 
