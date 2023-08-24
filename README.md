@@ -3,7 +3,7 @@
 <br>
 
 
-- 👨‍🎓   I’m currently studying Explorer at [Rocketseat](https://www.rocketseat.com.br/explorer?utm_source=rocketseat&utm_medium=banner&utm_campaign=offer-smtc&utm_term=organic&utm_content=offer-smtc/)
+- 👨‍🎓   I’m currently studying Flutter at [Academia do Flutter](https://novo.academiadoflutter.com.br/)
 
 - 🚀  I’m currently learning **TypeScript, React, Angular, NodeJS**
 
