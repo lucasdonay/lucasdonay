@@ -17,11 +17,12 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white")&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js&nbsp;)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)&nbsp;
-![VUE](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=white%22)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![VUE](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vue.js)&nbsp;
+![Nuxt](https://img.shields.io/badge/-NuxtJs-05122A?style=flat&logo=nuxt.js&nbsp;)&nbsp;
+![Tailwind](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=Tailwind%20CSS)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
