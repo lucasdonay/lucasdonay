@@ -7,21 +7,18 @@
 
 - 🚀  I’m currently learning **TypeScript, Vuejs, Nuxt & Tailwind**
 
-- ⌛  In the future, i want to become a developer mobile using **Flutter**
-
 - 👨‍💻  How to reach me  [donay.dev](https://donay.dev)
 
-- ⚡  Fun fact **I ❤️️ ☕**
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js&nbsp;)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)&nbsp;
 ![VUE](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vue.js)&nbsp;
-![Nuxt](https://img.shields.io/badge/-NuxtJs-05122A?style=flat&logo=nuxt.js&nbsp;)&nbsp;
+![Nuxt](https://img.shields.io/badge/-NuxtJs-05122A?style=flat&logo=nuxt.js)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=Tailwind%20CSS)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -44,8 +41,8 @@
  <img align="center" src="https://img.shields.io/badge/-donays-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>  
   ⠀
-  <a href="https://twitter.com/donaydev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-donaydev-05122A?style=flat&logo=twitter" alt="twitter"/>
+  <a href="https://twitter.com/donaycodes" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-donaycodes-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
   
 </p>
