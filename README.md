@@ -17,9 +17,9 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![VUE](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
+![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white")&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)&nbsp;
+![VUE](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=white%22)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
