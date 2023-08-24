@@ -11,7 +11,7 @@
 
  Hey everyone! I'm a front-end developer with 2 years of experience using JavaScript, Vue.js, Nuxt.js, Angular, React Bootstrap, SCSS technologies and I'm looking for new career challenges.
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
