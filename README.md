@@ -1,4 +1,3 @@
-<img align="right" height="530em" src="https://raw.githubusercontent.com/gist/lucasdonay/7329d013c542214a6a4eb148dbf08464/raw/55ec5796137d29980d23b3648b565a891ef52917/githubcardfinal2.svg">
 <h1 align="left">⠀Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, i'm Donay!</h1>
 <br>
 
