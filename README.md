@@ -2,13 +2,13 @@
 <br>
 
 
-- 👨‍🎓   I’m currently studying Flutter at [Academia do Flutter](https://novo.academiadoflutter.com.br/)
+- 👨‍🎓  I’m currently studying Flutter at [Academia do Flutter](https://novo.academiadoflutter.com.br/)
 
-- 🚀  Nowadays I'm more connected with **TypeScript, Vuejs, Nuxt & Tailwind**
+- 🚀  Nowadays I'm more connected with **Flutter, Dart, Spring Boot & Angular**
 
 - 👨‍💻  How to reach me  [donay.dev](https://donay.dev)
 
- Hey everyone! I'm a front-end developer with 2 years of experience using JavaScript, Vue.js, Nuxt.js, Angular, React Bootstrap, SCSS technologies and I'm looking for new career challenges.
+ Hey everyone! I'm a front-end developer with 2 years of experience using Flutter, Dart, JavaScript, Vue.js, Nuxt.js, Angular, React and I'm looking for new career challenges.
 
 <br>
 
@@ -23,6 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
+![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=Spring&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 
@@ -32,16 +33,11 @@
 <br>
 
 <h1 align="left"> 📡 &nbsp;Social Links</h1>
-<p align="left" style="background:blue">  
+ 
 <a href="https://www.linkedin.com/in/lucasdonay/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucasdonay-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>  ⠀
-    <a href="https://instagram.com/donays" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-donays-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>  
-  ⠀
+</a>
   <a href="https://twitter.com/donaycodes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-donaycodes-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
-  
-</p>
+
