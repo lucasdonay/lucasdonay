@@ -2,20 +2,18 @@
 <br>
 
 
-- 👨‍🎓  I’m currently studying Flutter at [Academia do Flutter](https://novo.academiadoflutter.com.br/)
+- 👨‍🎓  I’m currently fullstack mobile Flutter
 
 - 🚀  Nowadays I'm more connected with **Flutter, Dart, Spring Boot & Angular**
 
 - 👨‍💻  How to reach me  [donay.dev](https://donay.dev)
 
- Hey everyone! I'm a front-end developer with 2 years of experience using Flutter, Dart, JavaScript, Vue.js, Nuxt.js, Angular, React and I'm looking for new career challenges.
+ Hey everyone! I'm a front-end developer with 3 years of experience using Flutter, Dart, JavaScript, Java, SpringBoot, Angular, React and I'm looking for new career challenges.
 
 <br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![VUE](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vue.js)&nbsp;
-![Nuxt](https://img.shields.io/badge/-NuxtJs-05122A?style=flat&logo=nuxt.js)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=Tailwind%20CSS)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
