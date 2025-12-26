@@ -1,11 +1,8 @@
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Donay!</h1>
-, I'm Donay!</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Donay!</h1>
 
 ### 🚀 Fullstack Mobile Developer | Flutter Specialist
 
 Hey! I'm a software engineer with **3+ years of experience** building scalable mobile and web applications. I specialize in **Flutter/Dart** for mobile development and have strong backend expertise with **Java Spring Boot**, allowing me to deliver complete, production-ready solutions from frontend to backend.
-
-<br>
 
 **💼 What I do:**
 - 📱 Build robust mobile apps with **Flutter** using Clean Architecture & SOLID principles
@@ -26,7 +23,6 @@ Hey! I'm a software engineer with **3+ years of experience** building scalable m
 
 **👨‍💻 Let's connect:** [donay.dev](https://donay.dev)
 
-<br>
 
 ## 🛠 Tech Stack
 
@@ -58,5 +54,3 @@ Hey! I'm a software engineer with **3+ years of experience** building scalable m
 ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=fastapi)&nbsp;
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=flat)&nbsp;
 ![SOLID](https://img.shields.io/badge/-SOLID-05122A?style=flat)&nbsp;
-
-<br>
