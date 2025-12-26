@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Donay!</h1>
+<h1 align="left"> 👋ㅤHi, I'm Lucas Donay!</h1>
 
 ### 🚀 Fullstack Mobile Developer | Flutter Specialist
 
